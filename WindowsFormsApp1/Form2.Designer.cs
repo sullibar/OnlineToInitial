@@ -38,7 +38,7 @@
             // 
             // btnClose
             // 
-            this.btnClose.Image = global::WindowsFormsApp1.Properties.Resources.icons8_sortie_50;
+            this.btnClose.Image = global::OnlineToInitial.Properties.Resources.icons8_sortie_50;
             this.btnClose.Location = new System.Drawing.Point(738, 388);
             this.btnClose.Name = "btnClose";
             this.btnClose.Size = new System.Drawing.Size(50, 50);

@@ -123,7 +123,7 @@
             // 
             // btnSetting
             // 
-            this.btnSetting.Image = global::WindowsFormsApp1.Properties.Resources.icons8_automatique_50;
+            this.btnSetting.Image = global::OnlineToInitial.Properties.Resources.icons8_automatique_50;
             this.btnSetting.Location = new System.Drawing.Point(236, 24);
             this.btnSetting.Name = "btnSetting";
             this.btnSetting.Size = new System.Drawing.Size(50, 50);
@@ -133,7 +133,7 @@
             // 
             // btnClose
             // 
-            this.btnClose.Image = global::WindowsFormsApp1.Properties.Resources.icons8_sortie_50;
+            this.btnClose.Image = global::OnlineToInitial.Properties.Resources.icons8_sortie_50;
             this.btnClose.Location = new System.Drawing.Point(291, 24);
             this.btnClose.Name = "btnClose";
             this.btnClose.Size = new System.Drawing.Size(50, 50);
@@ -143,7 +143,7 @@
             // 
             // btnWriteFile
             // 
-            this.btnWriteFile.Image = global::WindowsFormsApp1.Properties.Resources.icons8_enregistrer_sous_50;
+            this.btnWriteFile.Image = global::OnlineToInitial.Properties.Resources.icons8_enregistrer_sous_50;
             this.btnWriteFile.Location = new System.Drawing.Point(124, 24);
             this.btnWriteFile.Name = "btnWriteFile";
             this.btnWriteFile.Size = new System.Drawing.Size(50, 50);
@@ -153,7 +153,7 @@
             // 
             // btnConnection
             // 
-            this.btnConnection.Image = global::WindowsFormsApp1.Properties.Resources.icons8_connecté_50;
+            this.btnConnection.Image = global::OnlineToInitial.Properties.Resources.icons8_connecté_50;
             this.btnConnection.Location = new System.Drawing.Point(180, 24);
             this.btnConnection.Name = "btnConnection";
             this.btnConnection.Size = new System.Drawing.Size(50, 50);
@@ -163,7 +163,7 @@
             // 
             // btnExtract
             // 
-            this.btnExtract.Image = global::WindowsFormsApp1.Properties.Resources.icons8_précision_50;
+            this.btnExtract.Image = global::OnlineToInitial.Properties.Resources.icons8_précision_50;
             this.btnExtract.Location = new System.Drawing.Point(68, 24);
             this.btnExtract.Name = "btnExtract";
             this.btnExtract.Size = new System.Drawing.Size(50, 50);
@@ -173,7 +173,7 @@
             // 
             // btnOpenFileAwl
             // 
-            this.btnOpenFileAwl.Image = global::WindowsFormsApp1.Properties.Resources.icons8_dossier_50;
+            this.btnOpenFileAwl.Image = global::OnlineToInitial.Properties.Resources.icons8_dossier_50;
             this.btnOpenFileAwl.Location = new System.Drawing.Point(12, 24);
             this.btnOpenFileAwl.Name = "btnOpenFileAwl";
             this.btnOpenFileAwl.Size = new System.Drawing.Size(50, 50);

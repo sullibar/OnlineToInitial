@@ -31,9 +31,9 @@ namespace WindowsFormsApp1
             var res = -1;
 
             // Connexion à l'automate
-            string sAdresseIp = Properties.Settings.Default.AdresseIp;
-            int iRack = Int32.Parse(Properties.Settings.Default.Rack);
-            int iSlot = Int32.Parse(Properties.Settings.Default.Slot);
+            string sAdresseIp = OnlineToInitial.Properties.Settings.Default.AdresseIp;
+            int iRack = Int32.Parse(OnlineToInitial.Properties.Settings.Default.Rack);
+            int iSlot = Int32.Parse(OnlineToInitial.Properties.Settings.Default.Slot);
 
             res = Client.ConnectTo(sAdresseIp, iRack, iSlot);
 
